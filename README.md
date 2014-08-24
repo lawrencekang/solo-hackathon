@@ -1,0 +1,1 @@
+Solo-hackathon (MVP) project folder.  The goal in creating this repo is to create a web app using Angular and an as-yet undetermined back-end.
